@@ -1,4 +1,4 @@
-# 💼 Helton Santos de Lima
+# 💼 Currículo – Helton Santos de Lima
 
 📍 Realengo – Rio de Janeiro/RJ  
 📞 (21) 97046-9779  
@@ -13,7 +13,7 @@ Atuar como estagiário ou desenvolvedor júnior na área de tecnologia da inform
 ---
 
 ## 🧠 Resumo Profissional  
-Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando um **MBA em Big Data, BI e Inteligência Competitiva**. Possuo background em suporte técnico e processos administrativos, com experiência em sistemas corporativos, atendimento ao cliente e forte interesse em desenvolvimento full stack e análise de dados.  
+Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando um **MBA em Big Data, Business Intelligence e Inteligência Competitiva**. Possuo background em suporte técnico e processos administrativos, com experiência em sistemas corporativos, atendimento ao cliente e forte interesse em desenvolvimento full stack e análise de dados.  
 Conhecimentos em lógica de programação, Python, HTML, CSS, Git, banco de dados SQL, terminal Linux e ferramentas como VS Code.
 
 ---
@@ -48,7 +48,7 @@ Conhecimentos em lógica de programação, Python, HTML, CSS, Git, banco de dado
 ---
 
 ## 🎓 Formação Acadêmica
-- MBA em Big Data, BI e Inteligência Competitiva – UVA *(Conclusão Prevista: Fev 2025)*  
+- MBA em Big Data, Business Intelligence e Inteligência Competitiva – UVA *(Conclusão Prevista: Fev 2025)*  
 - Tecnólogo em Análise e Desenvolvimento de Sistemas – UNINOVE *(Concluído)*  
 - Ensino Médio – CE Monsenhor Miguel de Santa Maria Móchon *(2019)*
 
