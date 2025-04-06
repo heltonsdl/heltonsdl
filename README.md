@@ -1,4 +1,4 @@
-# 💼 Currículo – Helton Santos de Lima
+# 💼 Helton Santos de Lima
 
 📍 Realengo – Rio de Janeiro/RJ  
 📞 (21) 97046-9779  
