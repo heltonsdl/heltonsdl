@@ -1,7 +1,6 @@
 # 💼 Helton Santos de Lima
 
 📍 Realengo – Rio de Janeiro/RJ  
-📞 (21) 97046-9779  
 ✉️ heltonsdl@outlook.com  
 🔗 [linkedin.com/in/heltonsdl](https://linkedin.com/in/heltonsdl)
 
