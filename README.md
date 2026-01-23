@@ -12,8 +12,8 @@ Atuar como estagiário ou desenvolvedor júnior na área de tecnologia da inform
 ---
 
 ## 🧠 Resumo Profissional  
-Formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando um **MBA em Big Data, Business Intelligence e Inteligência Competitiva**. Possuo background em suporte técnico e processos administrativos, com experiência em sistemas corporativos, atendimento ao cliente e forte interesse em desenvolvimento full stack e análise de dados.  
-Conhecimentos em lógica de programação, Python, HTML, CSS, Git, banco de dados SQL, terminal Linux e ferramentas como VS Code.
+Formado em Análise e Desenvolvimento de Sistemas, possuo background em suporte técnico e processos administrativos, com experiência em sistemas corporativos, atendimento ao cliente e forte interesse em desenvolvimento full stack e análise de dados.
+Tenho conhecimentos em lógica de programação, Python, HTML, CSS, Git, bancos de dados SQL, terminal Linux e ferramentas como VS Code.
 
 ---
 
