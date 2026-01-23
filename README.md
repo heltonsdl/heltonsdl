@@ -46,8 +46,7 @@ Conhecimentos em lógica de programação, Python, HTML, CSS, Git, banco de dado
 
 ---
 
-## 🎓 Formação Acadêmica
-- MBA em Big Data, Business Intelligence e Inteligência Competitiva – UVA *(Conclusão Prevista: Fev 2025)*  
+## 🎓 Formação Acadêmica  
 - Tecnólogo em Análise e Desenvolvimento de Sistemas – UNINOVE *(Concluído)*  
 - Ensino Médio – CE Monsenhor Miguel de Santa Maria Móchon *(2019)*
 
